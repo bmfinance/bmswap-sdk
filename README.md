@@ -1,6 +1,6 @@
 # 🦓 Bmswap SDK
 
-## Running tests
+## Install
 
 ```sh
 cd bmswap-sdk/
