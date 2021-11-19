@@ -1,4 +1,4 @@
-# Bmswap SDK
+# 🦓 Bmswap SDK
 
 ## Running tests
 
